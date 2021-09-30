@@ -1,2 +1,3 @@
 # Baseball_Link
-<h2>Thanks r/badUIBattles</h2>
+<h3>Thanks to</h3>
+<h3>r/badUIBattles</h3>
